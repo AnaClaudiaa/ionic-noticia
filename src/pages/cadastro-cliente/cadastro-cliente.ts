@@ -4,12 +4,6 @@ import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 import { ClienteService } from '../../service/cliente.service';
 import { AlertController } from 'ionic-angular';
 
-/**
- * Generated class for the CadastroClientePage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
 
 @IonicPage()
 @Component({
